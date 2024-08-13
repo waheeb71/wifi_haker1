@@ -1,0 +1,128 @@
+[1mbettercap v2.32.0[0m [2m(built for linux amd64 with go1.22.1)[0m [type '[1mhelp[0m' for a list of commands]
+
+[16:22:12] [[32msys.log[0m] [[97m[42minf[0m] gateway monitor started ...
+[16:22:12] [[32msys.log[0m] [[97m[42minf[0m] [104m[30mnet.probe[0m[0m starting net.recon as a requirement for net.probe
+[16:22:12] [[32msys.log[0m] [[97m[42minf[0m] [104m[30mnet.probe[0m[0m probing 256 addresses on 172.20.41.0/24
+[16:22:12] [[32msys.log[0m] [[97m[43mwar[0m] [104m[30marp.spoof[0m[0m full duplex spoofing enabled, if the router has ARP spoofing mechanisms, the attack will fail.
+[16:22:12] [[32msys.log[0m] [[97m[42minf[0m] [104m[30marp.spoof[0m[0m arp spoofer started, probing 256 targets.
+[16:22:12] [[32mendpoint.new[0m] endpoint [1m172.20.41.61[0m[2m[0m detected as [32m30:a1:fa:27:2c:08[0m[2m (Huawei Technologies Co.,Ltd)[0m.
+[16:22:12] [[32mendpoint.new[0m] endpoint [1m172.20.41.119[0m[2m[0m detected as [32m8e:c1:26:1b:96:f9[0m[2m[0m.
+[16:22:12] [[32mendpoint.new[0m] endpoint [1mfe80::40df:29ff:fead:32e8[0m[2m[0m detected as [32m42:df:29:ad:32:e8[0m[2m[0m.
+[16:22:12] [[32mendpoint.new[0m] endpoint [1mfe80::7d95:7432:47b5:6681[0m[2m[0m detected as [32m00:0e:33:51:61:1b[0m[2m (Shuko Electronics Co.,Ltd)[0m.
+[16:22:12] [[32mendpoint.new[0m] endpoint [1mfe80::73f4:e831:edda:8323[0m[2m[0m detected as [32mbc:61:93:6f:61:ea[0m[2m[0m.
+[16:22:12] [[32mendpoint.new[0m] endpoint [1m172.20.41.122[0m[2m[0m detected as [32m68:87:1c:86:ee:b4[0m[2m[0m.
+[16:22:12] [[32mendpoint.new[0m] endpoint [1mfe80::c45:55ff:feef:5271[0m[2m[0m detected as [32m0e:45:55:ef:52:71[0m[2m[0m.
+[16:22:12] [[32mendpoint.new[0m] endpoint [1m172.20.41.79[0m[2m[0m detected as [32ma2:b6:2a:a6:89:9a[0m[2m[0m.
+[16:22:12] [[32mendpoint.new[0m] endpoint [1m172.20.41.211[0m[2m[0m detected as [32maa:a3:03:f6:ce:b5[0m[2m[0m.
+[16:22:12] [[32mendpoint.new[0m] endpoint [1mfe80::b289:ff:fe3f:43c5[0m[2m[0m detected as [32mb0:89:00:3f:43:c5[0m[2m (Huawei Technologies Co.,Ltd)[0m.
+[16:22:12] [[32mendpoint.new[0m] endpoint [1mfe80::6fbe:733f:c117:8b6c[0m[2m[0m detected as [32m02:6b:6f:ba:c4:d1[0m[2m[0m.
+[16:22:22] [[32mendpoint.new[0m] endpoint [1m172.20.41.62[0m[2m[0m detected as [32m2e:ce:94:97:79:36[0m[2m[0m.
+[16:22:28] [[32mendpoint.new[0m] endpoint [1m172.20.41.104[0m[2m[0m detected as [32ma0:c9:a0:ff:94:d3[0m[2m (Murata Manufacturing Co., Ltd.)[0m.
+[16:22:29] [[32mnet.sniff.dns[0m] [100m[97mdns[0m gateway > 172.20.41.211 : [33mrapi.av380.net[0m is [2m120.24.33.45[0m
+[16:22:29] [[32mnet.sniff.dns[0m] [100m[97mdns[0m gateway > 172.20.41.211 : [33mrapi.av380.net[0m is [2m120.24.33.45[0m
+[16:22:29] [[32mnet.sniff.dns[0m] [100m[97mdns[0m gateway > 172.20.41.211 : [33mrapi.av380.net[0m is [2m120.24.33.45[0m
+[16:22:29] [[32mnet.sniff.dns[0m] [100m[97mdns[0m gateway > 172.20.41.79 : [33malt7.mobile-gtalk.l.google.com[0m is [2m108.177.104.188[0m
+[16:22:29] [[32mnet.sniff.dns[0m] [100m[97mdns[0m gateway > 172.20.41.79 : [33mns3.google.com[0m is [2m216.239.36.10[0m
+[16:22:29] [[32mnet.sniff.dns[0m] [100m[97mdns[0m gateway > 172.20.41.79 : [33mns1.google.com[0m is [2m216.239.32.10[0m
+[16:22:29] [[32mnet.sniff.dns[0m] [100m[97mdns[0m gateway > 172.20.41.79 : [33mns4.google.com[0m is [2m216.239.38.10[0m
+[16:22:29] [[32mnet.sniff.dns[0m] [100m[97mdns[0m gateway > 172.20.41.79 : [33mns2.google.com[0m is [2m216.239.34.10[0m
+[16:22:29] [[32mnet.sniff.dns[0m] [100m[97mdns[0m gateway > 172.20.41.79 : [33malt7.mobile-gtalk.l.google.com[0m is [2m108.177.104.188[0m
+[16:22:29] [[32mnet.sniff.dns[0m] [100m[97mdns[0m gateway > 172.20.41.79 : [33mns3.google.com[0m is [2m216.239.36.10[0m
+[16:22:29] [[32mnet.sniff.dns[0m] [100m[97mdns[0m gateway > 172.20.41.79 : [33mns1.google.com[0m is [2m216.239.32.10[0m
+[16:22:29] [[32mnet.sniff.dns[0m] [100m[97mdns[0m gateway > 172.20.41.79 : [33mns4.google.com[0m is [2m216.239.38.10[0m
+[16:22:29] [[32mnet.sniff.dns[0m] [100m[97mdns[0m gateway > 172.20.41.79 : [33mns2.google.com[0m is [2m216.239.34.10[0m
+[16:22:29] [[32mnet.sniff.mdns[0m] [100m[97mmdns[0m 172.20.41.104 : [2mPTR[0m query for [33m_674A0243._sub._googlecast._tcp.local[0m
+[16:22:29] [[32mnet.sniff.mdns[0m] [100m[97mmdns[0m 172.20.41.104 : [2mPTR[0m query for [33m_233637DE._sub._googlecast._tcp.local[0m
+[16:22:29] [[32mnet.sniff.mdns[0m] [100m[97mmdns[0m 172.20.41.104 : [2mPTR[0m query for [33m_8E6C866D._sub._googlecast._tcp.local[0m
+[16:22:29] [[32mnet.sniff.mdns[0m] [100m[97mmdns[0m 172.20.41.104 : [2mPTR[0m query for [33m_googlecast._tcp.local[0m
+[16:22:29] [[32mnet.sniff.dns[0m] [100m[97mdns[0m gateway > 172.20.41.211 : [33mrapi.av380.net[0m is [2m120.24.33.45[0m
+[16:22:30] [[32mnet.sniff.dns[0m] [100m[97mdns[0m gateway > 172.20.41.119 : [33minstagram.c10r.instagram.com[0m is [2m157.240.195.63, 157.240.227.63[0m
+[16:22:30] [[32mnet.sniff.dns[0m] [100m[97mdns[0m gateway > 172.20.41.119 : [33minstagram.c10r.instagram.com[0m is [2m157.240.195.63, 157.240.227.63[0m
+[16:22:30] [[32mnet.sniff.dns[0m] [100m[97mdns[0m gateway > 172.20.41.119 : [33minstagram.c10r.instagram.com[0m is [2m157.240.195.63, 157.240.227.63[0m
+[16:22:30] [[32mnet.sniff.dns[0m] [100m[97mdns[0m gateway > 172.20.41.119 : [33minstagram.c10r.instagram.com[0m is [2m157.240.195.63, 157.240.227.63[0m
+[16:22:30] [[32mendpoint.new[0m] endpoint [1m172.20.41.91[0m[2m[0m detected as [32mc2:a7:44:50:18:9d[0m[2m[0m.
+[16:22:33] [[32mendpoint.new[0m] endpoint [1mfe80::bc0c:1aff:fe99:2d1[0m[2m[0m detected as [32mbe:0c:1a:99:02:d1[0m[2m[0m.
+[16:22:37] [[32mnet.sniff.http.request[0m] [41m[30mhttp[0m SYBERSC [104m[30mGET[0m [33mh.net[0m/status
+[16:22:37] [[32mnet.sniff.http.request[0m] [41m[30mhttp[0m SYBERSC [104m[30mGET[0m [33mh.net[0m/status
+[16:22:37] [[32mnet.sniff.http.request[0m] [41m[30mhttp[0m SYBERSC [104m[30mGET[0m [33mh.net[0m/status
+[16:22:37] [[32mendpoint.new[0m] endpoint [1m172.20.41.86[0m[2m[0m detected as [32mcc:bb:aa:aa:62:c1[0m[2m[0m.
+[16:22:38] [[32mnet.sniff.http.request[0m] [41m[30mhttp[0m SYBERSC [104m[30mGET[0m [33mh.net[0m/status
+[16:22:38] [[32mendpoint.lost[0m] endpoint [31m172.20.41.104[0m[2m[0m [32ma0:c9:a0:ff:94:d3[0m[2m (Murata Manufacturing Co., Ltd.)[0m lost.
+[16:22:39] [[32mnet.sniff.http.request[0m] [41m[30mhttp[0m SYBERSC [104m[30mGET[0m [33mh.net[0m/status
+[16:22:40] [[32mnet.sniff.http.request[0m] [41m[30mhttp[0m SYBERSC [104m[30mGET[0m [33mh.net[0m/status
+[16:22:42] [[32mnet.sniff.http.request[0m] [41m[30mhttp[0m SYBERSC [104m[30mGET[0m [33mh.net[0m/status
+[16:22:43] [[32mendpoint.new[0m] endpoint [1mfe80::8e9f:3bff:febd:6a34[0m[2m[0m detected as [32m8c:9f:3b:bd:6a:34[0m[2m (Qingdao Hisense Communications Co.,Ltd.)[0m.
+[16:22:45] [[32mendpoint.new[0m] endpoint [1m172.20.41.83[0m[2m[0m detected as [32me0:19:1d:e1:35:55[0m[2m (Huawei Technologies Co.,Ltd)[0m.
+[16:22:46] [[32mnet.sniff.mdns[0m] [100m[97mmdns[0m 172.20.41.82 : [2mPTR[0m query for [33m_googlecast._tcp.local[0m
+[16:22:46] [[32mnet.sniff.http.request[0m] [41m[30mhttp[0m SYBERSC [104m[30mGET[0m [33mh.net[0m/status
+[16:22:46] [[32mnet.sniff.mdns[0m] [100m[97mmdns[0m 172.20.41.82 : [2mPTR[0m query for [33m_233637DE._sub._googlecast._tcp.local[0m
+[16:22:49] [[32mendpoint.new[0m] endpoint [1m172.20.41.104[0m[2m[0m detected as [32ma0:c9:a0:ff:94:d3[0m[2m (Murata Manufacturing Co., Ltd.)[0m.
+[16:22:50] [[32mnet.sniff.mdns[0m] [100m[97mmdns[0m 172.20.41.104 : [2mPTR[0m query for [33m_googlecast._tcp.local[0m
+[16:22:50] [[32mnet.sniff.mdns[0m] [100m[97mmdns[0m 172.20.41.104 : [2mPTR[0m query for [33m_674A0243._sub._googlecast._tcp.local[0m
+[16:22:50] [[32mnet.sniff.mdns[0m] [100m[97mmdns[0m 172.20.41.104 : [2mPTR[0m query for [33m_233637DE._sub._googlecast._tcp.local[0m
+[16:22:50] [[32mnet.sniff.mdns[0m] [100m[97mmdns[0m 172.20.41.104 : [2mPTR[0m query for [33m_8E6C866D._sub._googlecast._tcp.local[0m
+[16:22:53] [[32mnet.sniff.dns[0m] [100m[97mdns[0m gateway > 172.20.41.61 : [33msgali1.ws.byteoversea.net[0m is [2m71.18.255.145, 71.18.255.147, 71.18.255.146, 71.18.255.144[0m
+[16:22:53] [[32mnet.sniff.dns[0m] [100m[97mdns[0m gateway > 172.20.41.119 : [33mchat-e2ee-ig-p42.c10r.facebook.com[0m is [2m157.240.195.175[0m
+[16:22:53] [[32mnet.sniff.dns[0m] [100m[97mdns[0m gateway > 172.20.41.119 : [33mchat-e2ee-ig-p42.c10r.facebook.com[0m is [2m157.240.195.175[0m
+[16:22:53] [[32mnet.sniff.dns[0m] [100m[97mdns[0m gateway > 172.20.41.61 : [33msgali1.ws.byteoversea.net[0m is [2m71.18.255.145, 71.18.255.147, 71.18.255.146, 71.18.255.144[0m
+[16:22:58] [[32mendpoint.lost[0m] endpoint [31m172.20.41.86[0m[2m[0m [32mcc:bb:aa:aa:62:c1[0m[2m[0m lost.
+[16:22:59] [[32mendpoint.lost[0m] endpoint [31m172.20.41.104[0m[2m[0m [32ma0:c9:a0:ff:94:d3[0m[2m (Murata Manufacturing Co., Ltd.)[0m lost.
+[16:23:00] [[32mnet.sniff.dns[0m] [100m[97mdns[0m gateway > 172.20.41.119 : [33minstagram.c10r.instagram.com[0m is [2m157.240.195.63[0m
+[16:23:00] [[32mnet.sniff.dns[0m] [100m[97mdns[0m gateway > 172.20.41.119 : [33minstagram.c10r.instagram.com[0m is [2m157.240.195.63[0m
+[16:23:04] [[32mnet.sniff.dns[0m] [100m[97mdns[0m gateway > SYBERSC : [33m104.41.20.172.in-addr.arpa[0m is [2m[31mNon-Existent Domain[0m[0m
+[16:23:04] [[32mnet.sniff.dns[0m] [100m[97mdns[0m gateway > 172.20.41.61 : [33mmmx-ds.cdn.whatsapp.net[0m is [2m157.240.195.56[0m
+[16:23:04] [[32mnet.sniff.dns[0m] [100m[97mdns[0m gateway > 172.20.41.61 : [33mmmx-ds.cdn.whatsapp.net[0m is [2m157.240.195.56[0m
+[16:23:04] [[32mnet.sniff.dns[0m] [100m[97mdns[0m gateway > SYBERSC : [33m104.41.20.172.in-addr.arpa[0m is [2m[31mNon-Existent Domain[0m[0m
+[16:23:16] [[32mendpoint.new[0m] endpoint [1m172.20.41.86[0m[2m[0m detected as [32mcc:bb:aa:aa:62:c1[0m[2m[0m.
+[16:23:20] [[32mendpoint.new[0m] endpoint [1m172.20.41.20[0m[2m[0m detected as [32me2:0b:5c:b4:f6:1a[0m[2m[0m.
+[16:23:22] [[32msys.log[0m] [[97m[41merr[0m] error getting ipv4 gateway: Could not find mac for 172.20.41.1
+[16:23:23] [[32msys.log[0m] [[97m[43mwar[0m] [104m[30marp.spoof[0m[0m could not find spoof targets
+[16:23:24] [[32msys.log[0m] [[97m[43mwar[0m] [104m[30marp.spoof[0m[0m could not find spoof targets
+[16:23:25] [[32msys.log[0m] [[97m[43mwar[0m] [104m[30marp.spoof[0m[0m could not find spoof targets
+[16:23:26] [[32mendpoint.lost[0m] endpoint [31m172.20.41.62[0m[2m[0m [32m2e:ce:94:97:79:36[0m[2m[0m lost.
+[16:23:26] [[32msys.log[0m] [[97m[43mwar[0m] [104m[30marp.spoof[0m[0m could not find spoof targets
+[16:23:27] [[32msys.log[0m] [[97m[41merr[0m] error getting ipv4 gateway: Could not find mac for 172.20.41.1
+[16:23:27] [[32msys.log[0m] [[97m[43mwar[0m] [104m[30marp.spoof[0m[0m could not find spoof targets
+[16:23:28] [[32msys.log[0m] [[97m[43mwar[0m] [104m[30marp.spoof[0m[0m could not find spoof targets
+[16:23:29] [[32msys.log[0m] [[97m[43mwar[0m] [104m[30marp.spoof[0m[0m could not find spoof targets
+[16:23:30] [[32msys.log[0m] [[97m[43mwar[0m] [104m[30marp.spoof[0m[0m could not find spoof targets
+[16:23:31] [[32mendpoint.lost[0m] endpoint [31mfe80::b289:ff:fe3f:43c5[0m[2m[0m [32mb0:89:00:3f:43:c5[0m[2m (Huawei Technologies Co.,Ltd)[0m lost.
+[16:23:31] [[32mendpoint.lost[0m] endpoint [31m172.20.41.211[0m[2m[0m [32maa:a3:03:f6:ce:b5[0m[2m[0m lost.
+[16:23:31] [[32mendpoint.lost[0m] endpoint [31mfe80::73f4:e831:edda:8323[0m[2m[0m [32mbc:61:93:6f:61:ea[0m[2m[0m lost.
+[16:23:31] [[32mendpoint.lost[0m] endpoint [31m172.20.41.83[0m[2m[0m [32me0:19:1d:e1:35:55[0m[2m (Huawei Technologies Co.,Ltd)[0m lost.
+[16:23:31] [[32mendpoint.lost[0m] endpoint [31mfe80::7d95:7432:47b5:6681[0m[2m[0m [32m00:0e:33:51:61:1b[0m[2m (Shuko Electronics Co.,Ltd)[0m lost.
+[16:23:31] [[32mendpoint.lost[0m] endpoint [31m172.20.41.119[0m[2m[0m [32m8e:c1:26:1b:96:f9[0m[2m[0m lost.
+[16:23:31] [[32mendpoint.lost[0m] endpoint [31m172.20.41.86[0m[2m[0m [32mcc:bb:aa:aa:62:c1[0m[2m[0m lost.
+[16:23:31] [[32mendpoint.lost[0m] endpoint [31m172.20.41.20[0m[2m[0m [32me2:0b:5c:b4:f6:1a[0m[2m[0m lost.
+[16:23:31] [[32mendpoint.lost[0m] endpoint [31m172.20.41.79[0m[2m[0m [32ma2:b6:2a:a6:89:9a[0m[2m[0m lost.
+[16:23:31] [[32mendpoint.lost[0m] endpoint [31m172.20.41.122[0m[2m[0m [32m68:87:1c:86:ee:b4[0m[2m[0m lost.
+[16:23:31] [[32mendpoint.lost[0m] endpoint [31mfe80::8e9f:3bff:febd:6a34[0m[2m[0m [32m8c:9f:3b:bd:6a:34[0m[2m (Qingdao Hisense Communications Co.,Ltd.)[0m lost.
+[16:23:31] [[32mendpoint.lost[0m] endpoint [31mfe80::40df:29ff:fead:32e8[0m[2m[0m [32m42:df:29:ad:32:e8[0m[2m[0m lost.
+[16:23:31] [[32mendpoint.lost[0m] endpoint [31m172.20.41.91[0m[2m (SYBERSC)[0m [32mc2:a7:44:50:18:9d[0m[2m[0m lost.
+[16:23:31] [[32mendpoint.lost[0m] endpoint [31mfe80::6fbe:733f:c117:8b6c[0m[2m[0m [32m02:6b:6f:ba:c4:d1[0m[2m[0m lost.
+[16:23:31] [[32mendpoint.lost[0m] endpoint [31mfe80::c45:55ff:feef:5271[0m[2m[0m [32m0e:45:55:ef:52:71[0m[2m[0m lost.
+[16:23:31] [[32mendpoint.lost[0m] endpoint [31mfe80::bc0c:1aff:fe99:2d1[0m[2m[0m [32mbe:0c:1a:99:02:d1[0m[2m[0m lost.
+[16:23:31] [[32mendpoint.lost[0m] endpoint [31m172.20.41.61[0m[2m[0m [32m30:a1:fa:27:2c:08[0m[2m (Huawei Technologies Co.,Ltd)[0m lost.
+[16:23:31] [[32msys.log[0m] [[97m[43mwar[0m] [104m[30marp.spoof[0m[0m could not find spoof targets
+[16:23:32] [[32msys.log[0m] [[97m[41merr[0m] error getting ipv4 gateway: Could not find mac for 172.20.41.1
+[16:23:32] [[32msys.log[0m] [[97m[43mwar[0m] [104m[30marp.spoof[0m[0m could not find spoof targets
+[16:23:33] [[32msys.log[0m] [[97m[43mwar[0m] [104m[30marp.spoof[0m[0m could not find spoof targets
+[16:23:34] [[32msys.log[0m] [[97m[43mwar[0m] [104m[30marp.spoof[0m[0m could not find spoof targets
+[16:23:35] [[32msys.log[0m] [[97m[43mwar[0m] [104m[30marp.spoof[0m[0m could not find spoof targets
+[16:23:36] [[32msys.log[0m] [[97m[43mwar[0m] [104m[30marp.spoof[0m[0m could not find spoof targets
+[16:23:37] [[32msys.log[0m] [[97m[41merr[0m] error getting ipv4 gateway: Could not find mac for 172.20.41.1
+[16:23:37] [[32msys.log[0m] [[97m[43mwar[0m] [104m[30marp.spoof[0m[0m could not find spoof targets
+[16:23:38] [[32msys.log[0m] [[97m[41merr[0m] [104m[30mnet.probe[0m[0m error sending mdns packet: send: Network is down
+[16:23:38] [[32msys.log[0m] [[97m[43mwar[0m] [104m[30marp.spoof[0m[0m could not find spoof targets
+[16:23:39] [[32msys.log[0m] [[97m[43mwar[0m] [104m[30marp.spoof[0m[0m could not find spoof targets
+[16:23:40] [[32msys.log[0m] [[97m[43mwar[0m] [104m[30marp.spoof[0m[0m could not find spoof targets
+Are you sure you want to quit this session? y/n [16:23:41] [[32msys.log[0m] [[97m[43mwar[0m] [104m[30marp.spoof[0m[0m could not find spoof targets
+[16:23:42] [[32msys.log[0m] [[97m[41merr[0m] error getting ipv4 gateway: Could not find mac for 
+[16:23:42] [[32msys.log[0m] [[97m[43mwar[0m] [104m[30marp.spoof[0m[0m could not find spoof targets
+[16:23:43] [[32msys.log[0m] [[97m[43mwar[0m] [104m[30marp.spoof[0m[0m could not find spoof targets
+[16:23:44] [[32msys.log[0m] [[97m[43mwar[0m] [104m[30marp.spoof[0m[0m could not find spoof targets
+
+[16:23:45] [[32msys.log[0m] [[97m[43mwar[0m] [104m[30marp.spoof[0m[0m could not find spoof targets
+[16:23:45] [[32msys.log[0m] [[97m[43mwar[0m] Got SIGTERM
+[16:23:45] [[32msys.log[0m] [[97m[42minf[0m] [104m[30marp.spoof[0m[0m waiting for ARP spoofer to stop ...
+[16:23:45] [[32msys.log[0m] [[97m[42minf[0m] [104m[30marp.spoof[0m[0m restoring ARP cache of 256 targets.
